@@ -1,11 +1,11 @@
 # Course Overview - ICS3U
 
-**School**: John Fraser Secondary School
-**Department**: Business/Technology
-**Course**: Introduction to Computer Science, Grade 11, University Level
-**Course Fee**: None
-**Prerequisite**: None (ICS2O, recommended)
-**Course Code**: ICS3U
+**School**: John Fraser Secondary School  
+**Department**: Business/Technology  
+**Course**: Introduction to Computer Science, Grade 11, University Level  
+**Course Fee**: None  
+**Prerequisite**: None (ICS2O is recommended)  
+**Course Code**: ICS3U  
 **Credit(s)**: 1.0
 
 ## Course Description
